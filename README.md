@@ -68,4 +68,4 @@ Replace the placeholder values with your actual EmailJS credentials. You can obt
 ```bash
 npm run dev
 ```
-👉 Live Demo: <a href='rahul-portfoliosite.netlify.app'>Live Demo</a>
+👉 Live Demo: <a href='//rahul-portfoliosite.netlify.app/'>Live Demo</a>
