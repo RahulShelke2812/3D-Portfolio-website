@@ -1,6 +1,6 @@
-<div align="center">
+
 <h3 align="center">A 3D Developer Portfolio</h3>
-<div/>
+
 1.⚙️ [Tech Stack](#tech-stack)
 
 2. 🔋 [Features](#features)
