@@ -15,15 +15,19 @@
 - Email JS
 - Vite
 - Tailwind CSS
- <div align="center">
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Customizable 3D Hero Section**: Includes a 3D desktop model easily customizable to suit specific needs.
+
 👉 **3D Skills Section**: Showcases skills using 3D geometries through three.js and React Three fiber.
+
 👉 **3D Stars**: Generate stars progressively at random positions using Three.js for background display.
+
 👉 **Consistent Animations**: Implements cohesive animations throughout the website using framer motion.
+
 👉 **Responsive Design**: Ensures optimal display and functionality across all devices.
-<div/>
+
 and many more, including code architecture and reusability 
 ## <a name="quick-start">🤸 Quick Start</a>
 
